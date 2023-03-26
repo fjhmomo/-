@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test114.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="initial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainbMenu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="libraryshow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="addbook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ifhave.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dislist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="numbershow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortbook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="headchoose.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="automatic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortbookchoice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="headop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="adbsugget.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="adbrepet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="adboperateshow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="adbagain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bookempty.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbktips.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="abkautomicchoice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="makechoice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sbkoperate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="headchooseshow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="headopshoow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="headopflag.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dislistshow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Disop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="imformation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="imformationshow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="numberlook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="oklook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="autornamelook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="booknamelook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="changebook%27.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="changebooktips.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="badlook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tou1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tou2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
